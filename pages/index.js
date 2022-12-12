@@ -21,7 +21,7 @@ import devIcon from "../public/programmer.png";
 import portfolio from "../public/p1.png";
 import slytheryn from "../public/p2.png";
 import vepply from "../public/p3.png";
-import barangayCencus from "p4.png";
+import barangayCencus from "../public/p5.png";
 import ems from "../public/p6.png";
 import kondisyon from "../public/p7.png";
 
