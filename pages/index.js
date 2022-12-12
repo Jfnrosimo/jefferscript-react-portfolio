@@ -18,12 +18,12 @@ import { TbBrandJavascript, TbBrandNextjs } from "react-icons/tb";
 //Import images
 import Image from "next/image";
 import devIcon from "../public/programmer.png";
-import portfolio from "../public/portfolio-p1.PNG";
-import slytheryn from "../public/slytheryn-p2.png";
-import vepply from "../public/vepply-p3.PNG";
-import barangayCencus from "../public/project5-sc.png";
-import ems from "../public/ems-p6.PNG";
-import kondisyon from "../public/hackathon-project-sc.PNG";
+import portfolio from "../public/p1.png";
+import slytheryn from "../public/p2.png";
+import vepply from "../public/p3.png";
+import barangayCencus from "p4.png";
+import ems from "../public/p6.png";
+import kondisyon from "../public/p7.png";
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
