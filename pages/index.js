@@ -375,6 +375,8 @@ export default function Home() {
           </div>
         </section>
       </main>
+
+      {/*----- Footer -----*/}
       <footer className="text-center pt-18 bg-gray-100 p-7 dark:bg-gray-900 dark:text-slate-300">
         <a
           className="text-xs "
