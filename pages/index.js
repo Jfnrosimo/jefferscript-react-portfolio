@@ -14,8 +14,11 @@ import {
 } from "react-icons/si";
 import { TbBrandJavascript, TbBrandNextjs } from "react-icons/tb";
 
+//Import images
 import Image from "next/image";
 import devIcon from "../public/programmer.png";
+import portfolio from "../public/web-portfolio-p1-sc.PNG";
+import slytheryn from "../public/slytheryn-p2.PNG";
 
 export default function Home() {
   return (
@@ -136,15 +139,60 @@ export default function Home() {
           <div>
             <h3 className="text-xl">Projects</h3>
             <div>
-              <div className="shadow-sm p-3">
+              <div className="shadow-md p-3 border text-center mt-5">
                 <p>
                   Web Portfolio | HTML, CSS, Bootstrap and Vanilla Javascript
                 </p>
+                <a href="https://jefferscript-portfolio.vercel.app/">
+                  <Image src={portfolio} alt="web portfolio project" />
+                </a>
+                <div>
+                  <a href="https://jefferscript-portfolio.vercel.app/">Live</a>
+                  <a className="ml-4" href="">
+                    Code
+                  </a>
+                </div>
               </div>
-              <div></div>
-              <div></div>
-              <div></div>
-              <div></div>
+              <div className="shadow-md p-3 border text-center mt-5">
+                <p>Snake game | HTML, CSS and Vanilla Javascript</p>
+                <a href="">
+                  <Image src={slytheryn} alt="slytheryn snake game" />
+                </a>
+                <div>
+                  <a href="">Live</a>
+                  <a className="ml-4" href="">
+                    Code
+                  </a>
+                </div>
+              </div>
+              <div className="shadow-md p-3 border text-center mt-5">
+                <p>
+                  Web Portfolio | HTML, CSS, Bootstrap and Vanilla Javascript
+                </p>
+                <a href="">
+                  <Image src={portfolio} alt="web portfolio project" />
+                </a>
+                <div>
+                  <a href="">Live</a>
+                  <a className="ml-4" href="">
+                    Code
+                  </a>
+                </div>
+              </div>
+              <div className="shadow-md p-3 border text-center mt-5">
+                <p>
+                  Web Portfolio | HTML, CSS, Bootstrap and Vanilla Javascript
+                </p>
+                <a href="">
+                  <Image src={portfolio} alt="web portfolio project" />
+                </a>
+                <div>
+                  <a href="">Live</a>
+                  <a className="ml-4" href="">
+                    Code
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
         </section>
