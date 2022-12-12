@@ -19,11 +19,11 @@ import { TbBrandJavascript, TbBrandNextjs } from "react-icons/tb";
 import Image from "next/image";
 import devIcon from "../public/programmer.png";
 import portfolio from "../public/portfolio-p1.png";
-import slytheryn from "../public/slytheryn-p2.PNG";
-import vepply from "../public/vepply-p3.PNG";
+import slytheryn from "../public/slytheryn-p2.png";
+import vepply from "../public/vepply-p3.png";
 import barangayCencus from "../public/project5-sc.png";
-import ems from "../public/ems-p6.PNG";
-import kondisyon from "../public/hackathon-project-sc.PNG";
+import ems from "../public/ems-p6.png";
+import kondisyon from "../public/hackathon-project-sc.png";
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
