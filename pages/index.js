@@ -275,7 +275,7 @@ export default function Home() {
                   Barangay Cencus | MongoDb, ExpressJs, ReactJs and NodeJs
                 </p>
                 <a
-                  href="https://barangay-cencus-p5-mern-7dempj613-jfnrosimo.vercel.app/login"
+                  href="https://barangay-cencus.onrender.com/login"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -284,7 +284,7 @@ export default function Home() {
                 <div className="mt-2">
                   <a
                     className="border-b-2 border-teal-500 hover:bg-teal-500 p-2"
-                    href="https://barangay-cencus-p5-mern-of0c4f6fh-jfnrosimo.vercel.app/login"
+                    href="https://barangay-cencus.onrender.com/login"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -292,7 +292,7 @@ export default function Home() {
                   </a>
                   <a
                     className="ml-4 border-b-2 border-teal-500 hover:bg-teal-500 p-2"
-                    href="https://github.com/Jfnrosimo/barangay-cencus-p5-mern-app/tree/p5-mern-app/p5-mern-app"
+                    href="https://github.com/Jfnrosimo/barangay-cencus-client"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -308,7 +308,7 @@ export default function Home() {
                   NodeJs and Reactstrap
                 </p>
                 <a
-                  href="https://ems-roan.vercel.app/"
+                  href="https://ems-4e55.onrender.com/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -317,7 +317,7 @@ export default function Home() {
                 <div className="mt-2">
                   <a
                     className="border-b-2 border-teal-500 hover:bg-teal-500 p-2"
-                    href="https://ems-roan.vercel.app/"
+                    href="https://ems-4e55.onrender.com/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -325,7 +325,7 @@ export default function Home() {
                   </a>
                   <a
                     className="ml-4 border-b-2 border-teal-500 hover:bg-teal-500 p-2"
-                    href="https://github.com/Jfnrosimo/ems"
+                    href="https://github.com/Jfnrosimo/ems-client"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -342,7 +342,7 @@ export default function Home() {
                   NodeJs and Reactstrap
                 </p>
                 <a
-                  href="https://kondisyon.vercel.app/"
+                  href="https://kondisyon.onrender.com/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -355,7 +355,7 @@ export default function Home() {
                 <div className="mt-2">
                   <a
                     className="border-b-2 border-teal-500 hover:bg-teal-500 p-2"
-                    href="https://kondisyon.vercel.app/"
+                    href="https://kondisyon.onrender.com/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -363,7 +363,7 @@ export default function Home() {
                   </a>
                   <a
                     className="ml-4 border-b-2 border-teal-500 hover:bg-teal-500 p-2"
-                    href="https://github.com/Jfnrosimo/kondisyon"
+                    href="https://github.com/Jfnrosimo/kondisyon-client"
                     target="_blank"
                     rel="noreferrer"
                   >
